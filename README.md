@@ -1,1 +1,7 @@
 # Olist-s-Customer-Satisfaction-Analytics
+
+Olist Store merupakan salah satu departement store terbesar di Brazil yang bergerak di bidang Marketplace. Olist menghubungkan banyak bisnis kecil di seluruh Brazil untuk diekspos ke konsumen. Para pemilik bisnis tersebut dapat menjual barangnya melalui channel Olist, kemudian mengantarkan barang tersebut ke pembeli melalui perusahaan logistik yang bekerja sama dengan Olist. Setelah barang diterima oleh pembeli, atau jika sudah melewati batas waktu pengiriman yang ditentukan, email yang berisi survey kepuasaan pelanggan akan dikirimkan ke pembeli. Survey kepuasan tersebut dapat diisi dengan rating (skala 1-5) dan komentar terkait produk ataupun pengalaman yang mereka rasakan selama berbelanja dengan Olist.
+
+Sesuai dengan poin di latar belakang, kepuasan pelanggan merupakan salah satu faktor penting yang perlu diperhatikan untuk mempertahankan kelangsungan bisnis di masa mendatang. Terlebih lagi jika bidang bisnis yang digeluti memiliki banyak kompetitor dan substitusi lain seperti departement store.
+
+Oleh karena itu, Olist perlu memastikan terjaganya kepuasaan pelanggan dari berbagai sisi, mulai dari sisi kualitas produk yang ditawarkan oleh para bisnis yang bekerjasama dengan Olist, dari sisi pengiriman (shipping) produk yang dilakukan oleh pihak logistik yang bekerja sama dengan Olist, dari segi harga dan lokasi beserta faktor-faktor lainnya, sehingga Olist tetap dapat menjadi pilihan utama pelanggan untuk berbelanja dan tentunya meningkatkan profit yang diterima oleh Olist.
